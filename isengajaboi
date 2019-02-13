@@ -1,0 +1,2 @@
+max(a,b,a):- a>=b.
+max(a,b,b):- a<b.
